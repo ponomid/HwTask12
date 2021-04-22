@@ -8,5 +8,7 @@ public class Main {
         System.out.println(manager.getSalary());
         System.out.println(worker.getBaseSalary());
 
+        System.out.println("1");
+
     }
 }
